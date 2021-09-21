@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{6BDD27A8-11E8-4010-B366-A04CA424FE9B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mapper.Application/Mapper/CustomerMapperProfile.cs">
+    <Files>
+      <File FileName="Mapper.API/Startup.cs" Line="29" Column="13" />
+      <File FileName="Mapper.Application/Services/MapperService.cs" />
+      <File FileName="Mapper.Application/Services/IMapperService.cs" />
+      <File FileName="Mapper.API/Controllers/BankCustomerMapperController.cs" />
+      <File FileName="Mapper.Application/DTOs/CurrencyAmountDto.cs" />
+      <File FileName="Mapper.Application/DTOs/BankCustomerDto.cs" />
+      <File FileName="Mapper.Domain/Entities/BankCustomer.cs" />
+      <File FileName="Mapper.Application/Mapper/CustomerMapperProfile.cs" Line="14" Column="105" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AutoMapper" expanded="True">
+            <Node name="Mapper.API" expanded="True" />
+            <Node name="Mapper.Application" expanded="True">
+              <Node name="Mapper" expanded="True">
+                <Node name="CustomerMapperProfile.cs" selected="True" />
+              </Node>
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="Mapper.Domain" expanded="True">
+              <Node name="Entities" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Mapper.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

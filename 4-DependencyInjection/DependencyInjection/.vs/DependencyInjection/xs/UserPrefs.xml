@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{D8A38972-0E68-4E34-84B4-243A63D9777E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Properties/launchSettings.json">
+    <Files>
+      <File FileName="Program.cs" Line="16" Column="1" />
+      <File FileName="Startup.cs" Line="67" Column="1" />
+      <File FileName="Instances/ISingletonWhoIAm.cs" Line="17" Column="1" />
+      <File FileName="Interfaces/WhoIAm.cs" Line="11" Column="10" />
+      <File FileName="Instances/IScopedWhoIAm.cs" Line="4" Column="5" />
+      <File FileName="Instances/ITransientWhoIAm.cs" Line="4" Column="5" />
+      <File FileName="Controllers/WeatherForecastController.cs" Line="42" Column="1" />
+      <File FileName="Properties/launchSettings.json" Line="12" Column="21" />
+      <File FileName="Services/ServiceWhoIAm.cs" Line="29" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DependencyInjection" expanded="True">
+            <Node name="DependencyInjection" expanded="True">
+              <Node name="Properties" expanded="True">
+                <Node name="launchSettings.json" selected="True" />
+              </Node>
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DependencyInjection PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

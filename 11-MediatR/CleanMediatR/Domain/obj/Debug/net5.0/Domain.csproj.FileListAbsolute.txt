@@ -1,0 +1,11 @@
+/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Domain/bin/Debug/net5.0/Domain.deps.json
+/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Domain/bin/Debug/net5.0/Domain.dll
+/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Domain/bin/Debug/net5.0/ref/Domain.dll
+/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Domain/bin/Debug/net5.0/Domain.pdb
+/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Domain/obj/Debug/net5.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Domain/obj/Debug/net5.0/Domain.dll
+/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Domain/obj/Debug/net5.0/ref/Domain.dll
+/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Domain/obj/Debug/net5.0/Domain.pdb

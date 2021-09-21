@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{9C7201C2-04FB-4F73-A29B-6F6D48E6F3E2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/TestAuthorizationController.cs">
+    <Files>
+      <File FileName="Controllers/TestAuthorizationController.cs" Line="33" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JWT" expanded="True">
+            <Node name="JWT.API" expanded="True">
+              <Node name="Application" expanded="True">
+                <Node name="Services" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True">
+                <Node name="TestAuthorizationController.cs" selected="True" />
+              </Node>
+              <Node name="Middlewares" expanded="True">
+                <Node name="DTOs" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.JWT.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/Eclipselunar/Desktop/Libro .Net/JWT/JWT.API/Startup.cs" relfile="Startup.cs" line="96" column="1" />
+      <Breakpoint enabled="false" file="/Users/Eclipselunar/Desktop/Libro .Net/JWT/JWT.API/Middlewares/TokenRequestMiddleware.cs" relfile="Middlewares/TokenRequestMiddleware.cs" line="9" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

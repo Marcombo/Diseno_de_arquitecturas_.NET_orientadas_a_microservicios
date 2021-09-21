@@ -1,0 +1,386 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.employees/ms.employees.api/ms.employees.api.csproj": {}
+  },
+  "projects": {
+    "/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.communications/ms.rabbitmq/ms.rabbitmq.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.communications/ms.rabbitmq/ms.rabbitmq.csproj",
+        "projectName": "ms.rabbitmq",
+        "projectPath": "/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.communications/ms.rabbitmq/ms.rabbitmq.csproj",
+        "packagesPath": "/Users/Eclipselunar/.nuget/packages/",
+        "outputPath": "/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.communications/ms.rabbitmq/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/Eclipselunar/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Extensions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.employees/ms.employees.api/ms.employees.api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.employees/ms.employees.api/ms.employees.api.csproj",
+        "projectName": "ms.employees.api",
+        "projectPath": "/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.employees/ms.employees.api/ms.employees.api.csproj",
+        "packagesPath": "/Users/Eclipselunar/.nuget/packages/",
+        "outputPath": "/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.employees/ms.employees.api/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/Eclipselunar/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.communications/ms.rabbitmq/ms.rabbitmq.csproj": {
+                "projectPath": "/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.communications/ms.rabbitmq/ms.rabbitmq.csproj"
+              },
+              "/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.employees/ms.employees.application/ms.employees.application.csproj": {
+                "projectPath": "/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.employees/ms.employees.application/ms.employees.application.csproj"
+              },
+              "/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.employees/ms.employees.domain/ms.employees.domain.csproj": {
+                "projectPath": "/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.employees/ms.employees.domain/ms.employees.domain.csproj"
+              },
+              "/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.employees/ms.employees.infrastructure/ms.employees.infrastructure.csproj": {
+                "projectPath": "/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.employees/ms.employees.infrastructure/ms.employees.infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Refit": {
+              "target": "Package",
+              "version": "[6.0.94, )"
+            },
+            "Refit.HttpClientFactory": {
+              "target": "Package",
+              "version": "[6.0.94, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.employees/ms.employees.application/ms.employees.application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.employees/ms.employees.application/ms.employees.application.csproj",
+        "projectName": "ms.employees.application",
+        "projectPath": "/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.employees/ms.employees.application/ms.employees.application.csproj",
+        "packagesPath": "/Users/Eclipselunar/.nuget/packages/",
+        "outputPath": "/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.employees/ms.employees.application/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/Eclipselunar/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.communications/ms.rabbitmq/ms.rabbitmq.csproj": {
+                "projectPath": "/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.communications/ms.rabbitmq/ms.rabbitmq.csproj"
+              },
+              "/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.employees/ms.employees.domain/ms.employees.domain.csproj": {
+                "projectPath": "/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.employees/ms.employees.domain/ms.employees.domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Refit": {
+              "target": "Package",
+              "version": "[6.0.94, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.employees/ms.employees.domain/ms.employees.domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.employees/ms.employees.domain/ms.employees.domain.csproj",
+        "projectName": "ms.employees.domain",
+        "projectPath": "/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.employees/ms.employees.domain/ms.employees.domain.csproj",
+        "packagesPath": "/Users/Eclipselunar/.nuget/packages/",
+        "outputPath": "/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.employees/ms.employees.domain/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/Eclipselunar/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.employees/ms.employees.infrastructure/ms.employees.infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.employees/ms.employees.infrastructure/ms.employees.infrastructure.csproj",
+        "projectName": "ms.employees.infrastructure",
+        "projectPath": "/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.employees/ms.employees.infrastructure/ms.employees.infrastructure.csproj",
+        "packagesPath": "/Users/Eclipselunar/.nuget/packages/",
+        "outputPath": "/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.employees/ms.employees.infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/Eclipselunar/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.employees/ms.employees.domain/ms.employees.domain.csproj": {
+                "projectPath": "/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.employees/ms.employees.domain/ms.employees.domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

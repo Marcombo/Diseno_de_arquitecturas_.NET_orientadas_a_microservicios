@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="RabbitMQ.Client" />
+    <None Remove="Events\" />
+    <None Remove="Producers\" />
+    <None Remove="Middlewares\" />
+    <None Remove="Microsoft.AspNetCore.Http.Abstractions" />
+    <None Remove="Microsoft.AspNetCore.Http.Extensions" />
+    <None Remove="Consumers\" />
+    <None Remove="Microsoft.Extensions.Hosting" />
+    <None Remove="Microsoft.AspNetCore.Mvc.Abstractions" />
+    <None Remove="System.Threading" />
+    <None Remove="System.Threading.Tasks" />
+    <None Remove="Microsoft.AspNetCore.Hosting.Abstractions" />
+    <None Remove="Microsoft.Extensions.Hosting.Abstractions" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="RabbitMQ.Client" Version="6.2.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Extensions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="5.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Events\" />
+    <Folder Include="Producers\" />
+    <Folder Include="Middlewares\" />
+    <Folder Include="Consumers\" />
+  </ItemGroup>
+</Project>

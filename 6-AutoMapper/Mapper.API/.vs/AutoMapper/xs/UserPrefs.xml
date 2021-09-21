@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{6BDD27A8-11E8-4010-B366-A04CA424FE9B}|Default">
+  <MonoDevelop.Ide.ItemProperties.Mapper.Application FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mapper.Application/DTOs/BankCustomerDto.cs">
+    <Files>
+      <File FileName="Mapper.Domain/Entities/BankCustomer.cs" Line="11" Column="45" />
+      <File FileName="Mapper.Application/DTOs/BankCustomerDto.cs" Line="11" Column="1" />
+      <File FileName="Mapper.Application/DTOs/CurrencyAmountDto.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AutoMapper" expanded="True">
+            <Node name="Mapper.API" expanded="True">
+              <Node name="Mapper.Application" expanded="True" selected="True" />
+            </Node>
+            <Node name="Mapper.Application" expanded="True">
+              <Node name="DTOs" expanded="True" />
+            </Node>
+            <Node name="Mapper.Domain" expanded="True">
+              <Node name="Entities" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>ConfigurationPath.Combine(Directory.GetCurrentDirectory(), "Logs")</Value>
+          <Value>Path.Combine(Directory.GetCurrentDirectory(), "Logs")</Value>
+          <Value>HttpContext.Request.GetTypedHeaders().Referer</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Mapper.Domain FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Mapper.API FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

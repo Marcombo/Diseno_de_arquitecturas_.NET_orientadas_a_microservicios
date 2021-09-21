@@ -1,0 +1,39 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Domain\" />
+    <None Remove="Infrastructure\" />
+    <None Remove="Domain\Interfaces\" />
+    <None Remove="Infrastructure\UserRepository\" />
+    <None Remove="Domain\Entities\" />
+    <None Remove="Application\" />
+    <None Remove="Application\Services\" />
+    <None Remove="Application\Services\User\" />
+    <None Remove="Domain\Interfaces\Services\" />
+    <None Remove="Domain\Interfaces\Repositories\" />
+    <None Remove="Domain\Interfaces\Services\User\" />
+    <None Remove="Swashbuckle.AspNetCore" />
+    <None Remove="Controllers\Users\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Domain\" />
+    <Folder Include="Infrastructure\" />
+    <Folder Include="Domain\Interfaces\" />
+    <Folder Include="Infrastructure\Repositories\" />
+    <Folder Include="Domain\Entities\" />
+    <Folder Include="Application\" />
+    <Folder Include="Application\Services\" />
+    <Folder Include="Application\Services\Users\" />
+    <Folder Include="Domain\Interfaces\Services\" />
+    <Folder Include="Domain\Interfaces\Repositories\" />
+    <Folder Include="Domain\Interfaces\Services\Users\" />
+    <Folder Include="Controllers\Users\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.1.5" />
+  </ItemGroup>
+</Project>

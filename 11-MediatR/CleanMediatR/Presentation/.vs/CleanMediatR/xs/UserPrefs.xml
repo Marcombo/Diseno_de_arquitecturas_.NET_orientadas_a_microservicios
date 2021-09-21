@@ -1,0 +1,55 @@
+﻿<Properties StartupConfiguration="{4F049996-7BF8-408C-9AB1-290E0CDDD36F}|Default">
+  <MonoDevelop.Ide.ItemProperties.Presentation PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Application/Commands/Handlers/CreateProductCommandHandler.cs">
+    <Files>
+      <File FileName="../Application/Commands/CreateProductCommand.cs" Line="7" Column="36" />
+      <File FileName="../Application/Queries/GetAllProductQuery.cs" Line="7" Column="5" />
+      <File FileName="../Application/Responses/ProductResponse.cs" />
+      <File FileName="../Application/Queries/Handlers/GetAllProductQueryHandler.cs" Line="15" Column="80" />
+      <File FileName="Presentation/Controllers/ProductsController.cs" Line="17" Column="79" />
+      <File FileName="Presentation/Startup.cs" Line="43" Column="13" />
+      <File FileName="Presentation/Properties/launchSettings.json" />
+      <File FileName="../Application/Requests/CreateProductRequest.cs" />
+      <File FileName="../Infrastructure/Repositories/ProductInMemoryRepository.cs" />
+      <File FileName="../Application/Commands/Handlers/CreateProductCommandHandler.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CleanMediatR" expanded="True">
+            <Node name="Application" expanded="True">
+              <Node name="Commands" expanded="True">
+                <Node name="Handlers" expanded="True">
+                  <Node name="CreateProductCommandHandler.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Queries" expanded="True">
+                <Node name="Handlers" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Infrastructure" expanded="True">
+              <Node name="Repositories" expanded="True" />
+            </Node>
+            <Node name="Presentation" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Presentation/Presentation/Controllers/ProductsController.cs" relfile="Presentation/Controllers/ProductsController.cs" line="22" column="1" />
+      <Breakpoint file="/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Presentation/Presentation/Controllers/ProductsController.cs" relfile="Presentation/Controllers/ProductsController.cs" line="27" column="1" />
+      <Breakpoint file="/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Domain/ValueObjects/ProductName.cs" line="9" column="1" />
+      <Breakpoint file="/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Infrastructure/Repositories/ProductInMemoryRepository.cs" line="18" column="1" />
+      <Breakpoint file="/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Infrastructure/Repositories/ProductInMemoryRepository.cs" line="14" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

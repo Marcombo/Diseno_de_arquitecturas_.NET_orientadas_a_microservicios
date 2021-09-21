@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="AutoMapper" />
+    <None Remove="Mappers\" />
+    <None Remove="Responses\" />
+    <None Remove="Request\" />
+    <None Remove="Queries\" />
+    <None Remove="Commands\" />
+    <None Remove="MediatR" />
+    <None Remove="Queries\Handlers\" />
+    <None Remove="Commands\Handlers\" />
+    <None Remove="Microsoft.Extensions.Hosting" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="MediatR" Version="9.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="5.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Mappers\" />
+    <Folder Include="Responses\" />
+    <Folder Include="Request\" />
+    <Folder Include="Queries\" />
+    <Folder Include="Commands\" />
+    <Folder Include="Queries\Handlers\" />
+    <Folder Include="Commands\Handlers\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ms.attendances.domain\ms.attendances.domain.csproj" />
+    <ProjectReference Include="..\..\ms.communications\ms.rabbitmq\ms.rabbitmq.csproj" />
+  </ItemGroup>
+</Project>

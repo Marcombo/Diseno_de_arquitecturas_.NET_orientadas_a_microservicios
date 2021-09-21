@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{DFB40EBB-E6F5-4A65-87B0-4C73AAE45BB1}|Default">
+  <MonoDevelop.Ide.ItemProperties.NLogAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Logs/Ramón/2021-08-10.log">
+    <Files>
+      <File FileName="Logs/Ramón/2021-08-10.log" Line="4" Column="32" />
+      <File FileName="Controllers/LogsController.cs" Line="27" Column="17" />
+      <File FileName="Services/LogService.cs" Line="1" Column="1" />
+      <File FileName="nlog.config" Line="16" Column="58" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NLogAPI" expanded="True">
+            <Node name="NLogAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Logs" expanded="True">
+                <Node name="Ramón" expanded="True">
+                  <Node name="2021-08-10.log" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>ConfigurationPath.Combine(Directory.GetCurrentDirectory(), "Logs")</Value>
+          <Value>Path.Combine(Directory.GetCurrentDirectory(), "Logs")</Value>
+          <Value>HttpContext.Request.GetTypedHeaders().Referer</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

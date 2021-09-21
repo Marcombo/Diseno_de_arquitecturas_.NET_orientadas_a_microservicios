@@ -1,0 +1,17 @@
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.attendances/ms.attendances.application/bin/Debug/net5.0/ms.attendances.application.deps.json
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.attendances/ms.attendances.application/bin/Debug/net5.0/ms.attendances.application.dll
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.attendances/ms.attendances.application/bin/Debug/net5.0/ref/ms.attendances.application.dll
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.attendances/ms.attendances.application/bin/Debug/net5.0/ms.attendances.application.pdb
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.attendances/ms.attendances.application/bin/Debug/net5.0/ms.attendances.domain.dll
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.attendances/ms.attendances.application/bin/Debug/net5.0/ms.rabbitmq.dll
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.attendances/ms.attendances.application/bin/Debug/net5.0/ms.attendances.domain.pdb
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.attendances/ms.attendances.application/bin/Debug/net5.0/ms.rabbitmq.pdb
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.attendances/ms.attendances.application/obj/Debug/net5.0/ms.attendances.application.csproj.AssemblyReference.cache
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.attendances/ms.attendances.application/obj/Debug/net5.0/ms.attendances.application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.attendances/ms.attendances.application/obj/Debug/net5.0/ms.attendances.application.AssemblyInfoInputs.cache
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.attendances/ms.attendances.application/obj/Debug/net5.0/ms.attendances.application.AssemblyInfo.cs
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.attendances/ms.attendances.application/obj/Debug/net5.0/ms.attendances.application.csproj.CoreCompileInputs.cache
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.attendances/ms.attendances.application/obj/Debug/net5.0/ms.attendances.application.csproj.CopyComplete
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.attendances/ms.attendances.application/obj/Debug/net5.0/ms.attendances.application.dll
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.attendances/ms.attendances.application/obj/Debug/net5.0/ref/ms.attendances.application.dll
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.attendances/ms.attendances.application/obj/Debug/net5.0/ms.attendances.application.pdb

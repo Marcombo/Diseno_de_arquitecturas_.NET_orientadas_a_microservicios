@@ -1,0 +1,15 @@
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.users/ms.users.infrastructure/bin/Debug/net5.0/ms.users.infrastructure.deps.json
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.users/ms.users.infrastructure/bin/Debug/net5.0/ms.users.infrastructure.dll
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.users/ms.users.infrastructure/bin/Debug/net5.0/ref/ms.users.infrastructure.dll
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.users/ms.users.infrastructure/bin/Debug/net5.0/ms.users.infrastructure.pdb
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.users/ms.users.infrastructure/bin/Debug/net5.0/ms.users.domain.dll
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.users/ms.users.infrastructure/bin/Debug/net5.0/ms.users.domain.pdb
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.users/ms.users.infrastructure/obj/Debug/net5.0/ms.users.infrastructure.csproj.AssemblyReference.cache
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.users/ms.users.infrastructure/obj/Debug/net5.0/ms.users.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.users/ms.users.infrastructure/obj/Debug/net5.0/ms.users.infrastructure.AssemblyInfoInputs.cache
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.users/ms.users.infrastructure/obj/Debug/net5.0/ms.users.infrastructure.AssemblyInfo.cs
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.users/ms.users.infrastructure/obj/Debug/net5.0/ms.users.infrastructure.csproj.CoreCompileInputs.cache
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.users/ms.users.infrastructure/obj/Debug/net5.0/ms.users.infrastructure.csproj.CopyComplete
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.users/ms.users.infrastructure/obj/Debug/net5.0/ms.users.infrastructure.dll
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.users/ms.users.infrastructure/obj/Debug/net5.0/ref/ms.users.infrastructure.dll
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.users/ms.users.infrastructure/obj/Debug/net5.0/ms.users.infrastructure.pdb

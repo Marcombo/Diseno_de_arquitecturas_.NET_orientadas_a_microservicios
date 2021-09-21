@@ -1,0 +1,82 @@
+version: '3.4'
+
+services:
+  ms.rabbitmq.bus:
+    container_name: ms.rabbitmq.bus
+    restart: always
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+
+  ms.cassandra.db:
+    container_name: ms.cassandra.db
+    restart: always
+    volumes:
+      - /Users/Docker/MicroServices/Cassandra:/var/lib/cassandra
+    ports:
+      - "9042:9042"
+
+  ms.users.api:
+    container_name: ms.users.api
+    restart: always
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - "DatabaseSettings:Hostname=ms.cassandra.db"
+      - "Communication:EventBus:HostName=ms.rabbitmq.bus"
+    ports:
+      - "9000:80"
+    depends_on:
+      - ms.cassandra.db
+      - ms.rabbitmq.bus
+
+  ms.sql.employees.db:
+    container_name: ms.sql.employees.db
+    restart: always
+    volumes:
+      - /Users/Docker/MicroServices/SqlServer:/var/opt/mssql/data
+    ports:
+      - "1433:1433"
+    environment:  #Parametros del comando
+      SA_PASSWORD: ".123Pass456."
+      ACCEPT_EULA: "Y"
+
+  ms.mongo.attendance.db:
+    container_name: ms.mongo.attendance.db
+    restart: always
+    volumes:
+      - /Users/Docker/MicroServices/Mongo:/data/db
+    ports:
+      - "27017:27017"
+
+  ms.attendances.api:
+    container_name: ms.attendances.api
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - "ConnectionStrings:Attendance:HostName=ms.mongo.attendance.db"
+      - "ConnectionStrings:Attendance:DataBase=DbHistoricalAttendance"
+      - "ConnectionStrings:Attendance:Collection=Attendances"
+      - "ConnectionStrings:Attendance:Port=27017"
+      - "Communication:EventBus:HostName=ms.rabbitmq.bus"
+    ports:
+      - "9020:80"
+    depends_on:
+      - ms.mongo.attendance.db
+      - ms.rabbitmq.bus
+
+  ms.employees.api:
+    container_name: ms.employees.api
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - "ConnectionStrings:EmployeeDB:HostName=ms.sql.employees.db"
+      - "ConnectionStrings:EmployeeDB:Catalogue=EmployeesAttendance"
+      - "ConnectionStrings:EmployeeDB:User=sa"
+      - "ConnectionStrings:EmployeeDB:Password=.123Pass456."
+      - "Communication:EventBus:HostName=ms.rabbitmq.bus"
+      - "Communication:External:AttendanceApiUrl=http://ms.attendances.api:80"
+    ports:
+      - "9010:80"
+    depends_on:
+      - ms.sql.employees.db
+      - ms.rabbitmq.bus
+      - ms.attendances.api
+  

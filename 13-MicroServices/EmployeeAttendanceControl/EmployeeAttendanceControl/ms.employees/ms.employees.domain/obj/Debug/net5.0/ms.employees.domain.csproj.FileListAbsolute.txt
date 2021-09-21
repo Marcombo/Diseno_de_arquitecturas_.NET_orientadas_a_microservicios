@@ -1,0 +1,11 @@
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.employees/ms.employees.domain/bin/Debug/net5.0/ms.employees.domain.deps.json
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.employees/ms.employees.domain/bin/Debug/net5.0/ms.employees.domain.dll
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.employees/ms.employees.domain/bin/Debug/net5.0/ref/ms.employees.domain.dll
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.employees/ms.employees.domain/bin/Debug/net5.0/ms.employees.domain.pdb
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.employees/ms.employees.domain/obj/Debug/net5.0/ms.employees.domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.employees/ms.employees.domain/obj/Debug/net5.0/ms.employees.domain.AssemblyInfoInputs.cache
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.employees/ms.employees.domain/obj/Debug/net5.0/ms.employees.domain.AssemblyInfo.cs
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.employees/ms.employees.domain/obj/Debug/net5.0/ms.employees.domain.csproj.CoreCompileInputs.cache
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.employees/ms.employees.domain/obj/Debug/net5.0/ms.employees.domain.dll
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.employees/ms.employees.domain/obj/Debug/net5.0/ref/ms.employees.domain.dll
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.employees/ms.employees.domain/obj/Debug/net5.0/ms.employees.domain.pdb

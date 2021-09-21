@@ -1,0 +1,15 @@
+/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Infrastructure/bin/Debug/net5.0/Infrastructure.deps.json
+/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Infrastructure/bin/Debug/net5.0/Infrastructure.dll
+/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Infrastructure/bin/Debug/net5.0/ref/Infrastructure.dll
+/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Infrastructure/bin/Debug/net5.0/Infrastructure.pdb
+/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Infrastructure/bin/Debug/net5.0/Domain.dll
+/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Infrastructure/bin/Debug/net5.0/Domain.pdb
+/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Infrastructure/obj/Debug/net5.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Infrastructure/obj/Debug/net5.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Infrastructure/obj/Debug/net5.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Infrastructure/obj/Debug/net5.0/Infrastructure.AssemblyInfo.cs
+/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Infrastructure/obj/Debug/net5.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Infrastructure/obj/Debug/net5.0/Infrastructure.csproj.CopyComplete
+/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Infrastructure/obj/Debug/net5.0/Infrastructure.dll
+/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Infrastructure/obj/Debug/net5.0/ref/Infrastructure.dll
+/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Infrastructure/obj/Debug/net5.0/Infrastructure.pdb

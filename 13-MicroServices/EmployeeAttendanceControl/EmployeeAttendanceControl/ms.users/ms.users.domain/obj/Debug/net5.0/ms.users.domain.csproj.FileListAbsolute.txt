@@ -1,0 +1,11 @@
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.users/ms.users.domain/bin/Debug/net5.0/ms.users.domain.deps.json
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.users/ms.users.domain/bin/Debug/net5.0/ms.users.domain.dll
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.users/ms.users.domain/bin/Debug/net5.0/ref/ms.users.domain.dll
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.users/ms.users.domain/bin/Debug/net5.0/ms.users.domain.pdb
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.users/ms.users.domain/obj/Debug/net5.0/ms.users.domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.users/ms.users.domain/obj/Debug/net5.0/ms.users.domain.AssemblyInfoInputs.cache
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.users/ms.users.domain/obj/Debug/net5.0/ms.users.domain.AssemblyInfo.cs
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.users/ms.users.domain/obj/Debug/net5.0/ms.users.domain.csproj.CoreCompileInputs.cache
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.users/ms.users.domain/obj/Debug/net5.0/ms.users.domain.dll
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.users/ms.users.domain/obj/Debug/net5.0/ref/ms.users.domain.dll
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.users/ms.users.domain/obj/Debug/net5.0/ms.users.domain.pdb

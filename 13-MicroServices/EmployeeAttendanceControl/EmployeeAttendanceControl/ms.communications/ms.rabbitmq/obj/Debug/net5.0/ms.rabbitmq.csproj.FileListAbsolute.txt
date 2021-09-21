@@ -1,0 +1,12 @@
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.communications/ms.rabbitmq/bin/Debug/net5.0/ms.rabbitmq.deps.json
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.communications/ms.rabbitmq/bin/Debug/net5.0/ms.rabbitmq.dll
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.communications/ms.rabbitmq/bin/Debug/net5.0/ref/ms.rabbitmq.dll
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.communications/ms.rabbitmq/bin/Debug/net5.0/ms.rabbitmq.pdb
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.communications/ms.rabbitmq/obj/Debug/net5.0/ms.rabbitmq.csproj.AssemblyReference.cache
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.communications/ms.rabbitmq/obj/Debug/net5.0/ms.rabbitmq.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.communications/ms.rabbitmq/obj/Debug/net5.0/ms.rabbitmq.AssemblyInfoInputs.cache
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.communications/ms.rabbitmq/obj/Debug/net5.0/ms.rabbitmq.AssemblyInfo.cs
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.communications/ms.rabbitmq/obj/Debug/net5.0/ms.rabbitmq.csproj.CoreCompileInputs.cache
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.communications/ms.rabbitmq/obj/Debug/net5.0/ms.rabbitmq.dll
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.communications/ms.rabbitmq/obj/Debug/net5.0/ref/ms.rabbitmq.dll
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.communications/ms.rabbitmq/obj/Debug/net5.0/ms.rabbitmq.pdb

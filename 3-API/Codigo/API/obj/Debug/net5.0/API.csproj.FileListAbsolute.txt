@@ -1,0 +1,32 @@
+/Users/Eclipselunar/Desktop/Libro .Net/API/Codigo/API/bin/Debug/net5.0/appsettings (copia).Development.json
+/Users/Eclipselunar/Desktop/Libro .Net/API/Codigo/API/bin/Debug/net5.0/appsettings (copia).json
+/Users/Eclipselunar/Desktop/Libro .Net/API/Codigo/API/bin/Debug/net5.0/appsettings (otra copia).json
+/Users/Eclipselunar/Desktop/Libro .Net/API/Codigo/API/bin/Debug/net5.0/appsettings.Development.json
+/Users/Eclipselunar/Desktop/Libro .Net/API/Codigo/API/bin/Debug/net5.0/appsettings.json
+/Users/Eclipselunar/Desktop/Libro .Net/API/Codigo/API/bin/Debug/net5.0/appsettings.Production.json
+/Users/Eclipselunar/Desktop/Libro .Net/API/Codigo/API/bin/Debug/net5.0/API.deps.json
+/Users/Eclipselunar/Desktop/Libro .Net/API/Codigo/API/bin/Debug/net5.0/API.runtimeconfig.json
+/Users/Eclipselunar/Desktop/Libro .Net/API/Codigo/API/bin/Debug/net5.0/API.runtimeconfig.dev.json
+/Users/Eclipselunar/Desktop/Libro .Net/API/Codigo/API/bin/Debug/net5.0/API.dll
+/Users/Eclipselunar/Desktop/Libro .Net/API/Codigo/API/bin/Debug/net5.0/ref/API.dll
+/Users/Eclipselunar/Desktop/Libro .Net/API/Codigo/API/bin/Debug/net5.0/API.pdb
+/Users/Eclipselunar/Desktop/Libro .Net/API/Codigo/API/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/Eclipselunar/Desktop/Libro .Net/API/Codigo/API/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/Eclipselunar/Desktop/Libro .Net/API/Codigo/API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/Eclipselunar/Desktop/Libro .Net/API/Codigo/API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/Eclipselunar/Desktop/Libro .Net/API/Codigo/API/obj/Debug/net5.0/API.csprojAssemblyReference.cache
+/Users/Eclipselunar/Desktop/Libro .Net/API/Codigo/API/obj/Debug/net5.0/API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Eclipselunar/Desktop/Libro .Net/API/Codigo/API/obj/Debug/net5.0/API.AssemblyInfoInputs.cache
+/Users/Eclipselunar/Desktop/Libro .Net/API/Codigo/API/obj/Debug/net5.0/API.AssemblyInfo.cs
+/Users/Eclipselunar/Desktop/Libro .Net/API/Codigo/API/obj/Debug/net5.0/API.csproj.CoreCompileInputs.cache
+/Users/Eclipselunar/Desktop/Libro .Net/API/Codigo/API/obj/Debug/net5.0/API.MvcApplicationPartsAssemblyInfo.cs
+/Users/Eclipselunar/Desktop/Libro .Net/API/Codigo/API/obj/Debug/net5.0/API.MvcApplicationPartsAssemblyInfo.cache
+/Users/Eclipselunar/Desktop/Libro .Net/API/Codigo/API/obj/Debug/net5.0/staticwebassets/API.StaticWebAssets.Manifest.cache
+/Users/Eclipselunar/Desktop/Libro .Net/API/Codigo/API/obj/Debug/net5.0/staticwebassets/API.StaticWebAssets.xml
+/Users/Eclipselunar/Desktop/Libro .Net/API/Codigo/API/obj/Debug/net5.0/scopedcss/bundle/API.styles.css
+/Users/Eclipselunar/Desktop/Libro .Net/API/Codigo/API/obj/Debug/net5.0/API.RazorTargetAssemblyInfo.cache
+/Users/Eclipselunar/Desktop/Libro .Net/API/Codigo/API/obj/Debug/net5.0/API.csproj.CopyComplete
+/Users/Eclipselunar/Desktop/Libro .Net/API/Codigo/API/obj/Debug/net5.0/API.dll
+/Users/Eclipselunar/Desktop/Libro .Net/API/Codigo/API/obj/Debug/net5.0/ref/API.dll
+/Users/Eclipselunar/Desktop/Libro .Net/API/Codigo/API/obj/Debug/net5.0/API.pdb
+/Users/Eclipselunar/Desktop/Libro .Net/API/Codigo/API/obj/Debug/net5.0/API.genruntimeconfig.cache

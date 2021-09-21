@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "27F9i+XZ7298HIx55xm84H12B6DSPrb1mZqUwWMHUU8MJPHW9uiQwHaClUGqnHenP6PxKZQw39mSrsAzo4uq5g==",
+  "success": true,
+  "projectFilePath": "/Users/Eclipselunar/Desktop/Libro .Net/AutoMapper/Mapper.Application/Mapper.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/Eclipselunar/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
+    "/Users/Eclipselunar/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/Eclipselunar/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

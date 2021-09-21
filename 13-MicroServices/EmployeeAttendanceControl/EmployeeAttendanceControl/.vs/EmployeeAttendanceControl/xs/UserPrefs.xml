@@ -1,0 +1,87 @@
+﻿<Properties StartupConfiguration="Varios proyectos">
+  <MonoDevelop.Ide.Workbench ActiveDocument="docker-compose.override.yml">
+    <Files>
+      <File FileName="ms.employees/ms.employees.domain/Repositories/IEmployeeRepository.cs" Line="15" Column="1" />
+      <File FileName="ms.employees/ms.employees.infrastructure/Repositories/EmployeeRepository.cs" Line="24" Column="1" />
+      <File FileName="ms.employees/ms.employees.application/Commands/Handlers/UpdateAttendanceStateCommandHandler.cs" Line="47" Column="1" />
+      <File FileName="ms.employees/ms.employees.application/Mappers/EmployeesMapperProfile.cs" Line="7" Column="1" />
+      <File FileName="ms.attendances/ms.attendances.api/Consumers/AttendancesConsumer.cs" Line="51" Column="14" />
+      <File FileName="ms.communications/ms.rabbitmq/Events/AttendanceStateChangedEvent.cs" Line="6" Column="45" />
+      <File FileName="ms.attendances/ms.attendances.api/Mappers/EventMapperProfile.cs" Line="13" Column="1" />
+      <File FileName="ms.attendances/ms.attendances.api/Startup.cs" Line="116" Column="42" />
+      <File FileName="ms.employees/ms.employees.application/HttpCommunications/Responses/AttendanceApiCommunicationResponse.cs" Line="15" Column="1" />
+      <File FileName="ms.employees/ms.employees.application/HttpCommunications/IAttendanceApiCommunication.cs" Line="15" Column="1" />
+      <File FileName="ms.employees/ms.employees.application/Commands/UpdateAttendanceStateCommand.cs" Line="9" Column="1" />
+      <File FileName="ms.employees/ms.employees.api/Controllers/EmployeesController.cs" Line="45" Column="1" />
+      <File FileName="ms.employees/ms.employees.api/Startup.cs" Line="56" Column="14" />
+      <File FileName="ms.employees/ms.employees.api/appsettings.json" Line="19" Column="7" />
+      <File FileName="docker-compose.yml" Line="22" Column="20" />
+      <File FileName="docker-compose.override.yml" Line="83" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EmployeeAttendanceControl" expanded="True" selected="True">
+            <Node name="ms.attendances" expanded="True" />
+            <Node name="ms.employees" expanded="True">
+              <Node name="ms.employees.api" expanded="True" />
+            </Node>
+            <Node name="ms.users" expanded="True">
+              <Node name="ms.users.api" expanded="True">
+                <Node name="Mappers" expanded="True" />
+              </Node>
+              <Node name="ms.users.application" expanded="True" />
+            </Node>
+            <Node name="docker-compose" expanded="True">
+              <Node name="docker-compose.yml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>userName.ToLowerInvariant()</Value>
+          <Value>JsonSerializer.Serialize(rabbitmqEvent)</Value>
+          <Value>JsonSerializer.Serialize(rabbitmqEvent as T)</Value>
+          <Value>JsonSerializer.Serialize(rabbitmqEvent)</Value>
+          <Value>JsonSerializer.Serialize(rabbitmqEvent)</Value>
+          <Value>rabbitmqEvent</Value>
+          <Value>rabbitmqEvent.Serialize()</Value>
+          <Value>JsonSerializer.Deserialize&lt;T&gt;(rabbitmqEvent.Serialize())</Value>
+          <Value>typeof(EmployeeCreatedEvent).Name</Value>
+          <Value>rabbitmqEvent.GetType().Name</Value>
+          <Value>rabbitmqEvent.GetType().Name</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ms.users.ms.users.api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ms.attendances.ms.attendances.api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <DisabledProjects>
+    <String>ms.users.api/ms.users.api.csproj</String>
+    <String>ms.users.application/ms.users.application.csproj</String>
+    <String>ms.users.domain/ms.users.domain.csproj</String>
+    <String>ms.users.infrastructure/ms.users.infrastructure.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.ItemProperties.ms.employees.ms.employees.api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.communications/ms.rabbitmq/Producers/AttendanceProducer.cs" relfile="ms.communications/ms.rabbitmq/Producers/AttendanceProducer.cs" line="16" column="1" />
+      <Breakpoint file="/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.communications/ms.rabbitmq/Producers/AttendanceProducer.cs" relfile="ms.communications/ms.rabbitmq/Producers/AttendanceProducer.cs" line="20" column="1" />
+      <Breakpoint file="/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.users/ms.users.application/Commands/Handlers/CreateUserAccountCommandHandler.cs" relfile="ms.users/ms.users.application/Commands/Handlers/CreateUserAccountCommandHandler.cs" line="16" column="1" />
+      <Breakpoint file="/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.users/ms.users.api/ApplicationBuilderExtentions.cs" relfile="ms.users/ms.users.api/ApplicationBuilderExtentions.cs" line="14" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Varios proyectos" Name="Varios proyectos">
+      <Items>
+        <StartupItem ItemId="{F97F99F7-D1CA-43E5-823F-4E4BF10D9607}" ItemName="ms.attendances.api" ConfigurationId="Default" />
+        <StartupItem ItemId="{471A23F9-707F-4F52-97D7-371F66A33DCE}" ItemName="ms.employees.api" ConfigurationId="Default" />
+        <StartupItem ItemId="{C618EE13-DA27-4193-83B4-3DBDCED0EFD0}" ItemName="ms.users.api" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+</Properties>

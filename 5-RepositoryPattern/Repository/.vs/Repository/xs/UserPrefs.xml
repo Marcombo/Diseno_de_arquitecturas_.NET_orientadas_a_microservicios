@@ -1,0 +1,56 @@
+﻿<Properties StartupConfiguration="{4B58A38D-BBF8-4141-AF03-38D77EEA5E72}|Default">
+  <MonoDevelop.Ide.ItemProperties.Repository PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Startup.cs">
+    <Files>
+      <File FileName="Domain/Interfaces/Repositories/IUserRepository.cs" Line="15" Column="1" />
+      <File FileName="Application/Services/Users/GetUserService.cs" />
+      <File FileName="Application/Services/Users/GetAllUserService.cs" />
+      <File FileName="Application/Services/Users/CreateUserService.cs" />
+      <File FileName="Application/Services/Users/DeleteUserService.cs" />
+      <File FileName="Application/Services/Users/UpdateEmailService.cs" />
+      <File FileName="Infrastructure/Repositories/UserRepository.cs" />
+      <File FileName="Startup.cs" Line="52" Column="14" />
+      <File FileName="Domain/Entities/User.cs" />
+      <File FileName="Domain/Interfaces/Services/Users/ICreateUserService.cs" />
+      <File FileName="Domain/Interfaces/Services/Users/IDeleteUserService.cs" />
+      <File FileName="Domain/Interfaces/Services/Users/IGetAllUserService.cs" />
+      <File FileName="Domain/Interfaces/Services/Users/IGetUserService.cs" />
+      <File FileName="Domain/Interfaces/Services/Users/IUpdateEmailService.cs" />
+      <File FileName="Controllers/Users/CreateUserController.cs" />
+      <File FileName="Controllers/Users/DeleteUserController.cs" />
+      <File FileName="Controllers/Users/GetAllUserController.cs" />
+      <File FileName="Controllers/Users/GetUserController.cs" />
+      <File FileName="Controllers/Users/UpdateEmailController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Repository" expanded="True">
+            <Node name="Repository" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True">
+                <Node name="Users" expanded="True" />
+              </Node>
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>ConfigurationPath.Combine(Directory.GetCurrentDirectory(), "Logs")</Value>
+          <Value>Path.Combine(Directory.GetCurrentDirectory(), "Logs")</Value>
+          <Value>HttpContext.Request.GetTypedHeaders().Referer</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

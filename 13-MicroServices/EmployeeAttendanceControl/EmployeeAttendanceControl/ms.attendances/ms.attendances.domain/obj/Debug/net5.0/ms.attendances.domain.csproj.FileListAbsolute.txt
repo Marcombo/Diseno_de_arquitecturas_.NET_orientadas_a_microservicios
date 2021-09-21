@@ -1,0 +1,11 @@
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.attendances/ms.attendances.domain/bin/Debug/net5.0/ms.attendances.domain.deps.json
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.attendances/ms.attendances.domain/bin/Debug/net5.0/ms.attendances.domain.dll
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.attendances/ms.attendances.domain/bin/Debug/net5.0/ref/ms.attendances.domain.dll
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.attendances/ms.attendances.domain/bin/Debug/net5.0/ms.attendances.domain.pdb
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.attendances/ms.attendances.domain/obj/Debug/net5.0/ms.attendances.domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.attendances/ms.attendances.domain/obj/Debug/net5.0/ms.attendances.domain.AssemblyInfoInputs.cache
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.attendances/ms.attendances.domain/obj/Debug/net5.0/ms.attendances.domain.AssemblyInfo.cs
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.attendances/ms.attendances.domain/obj/Debug/net5.0/ms.attendances.domain.csproj.CoreCompileInputs.cache
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.attendances/ms.attendances.domain/obj/Debug/net5.0/ms.attendances.domain.dll
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.attendances/ms.attendances.domain/obj/Debug/net5.0/ref/ms.attendances.domain.dll
+/Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/ms.attendances/ms.attendances.domain/obj/Debug/net5.0/ms.attendances.domain.pdb

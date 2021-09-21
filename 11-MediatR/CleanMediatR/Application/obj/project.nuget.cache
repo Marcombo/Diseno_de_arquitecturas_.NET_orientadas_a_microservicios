@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FSidsz2ufPw3DMAqj7FugJCOXSWcbP4xUSjwoQVQh7va9LeU9+8tdop5jC2PCxRP68J/ox/owlSnibVWeWqMvA==",
+  "success": true,
+  "projectFilePath": "/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Application/Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/Eclipselunar/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

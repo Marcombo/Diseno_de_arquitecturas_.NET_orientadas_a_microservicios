@@ -1,0 +1,14 @@
+/Users/Eclipselunar/Desktop/Libro .Net/SOLID/Codigo/SOLID.LSP/bin/Debug/net5.0/SOLID.LSP.deps.json
+/Users/Eclipselunar/Desktop/Libro .Net/SOLID/Codigo/SOLID.LSP/bin/Debug/net5.0/SOLID.LSP.runtimeconfig.json
+/Users/Eclipselunar/Desktop/Libro .Net/SOLID/Codigo/SOLID.LSP/bin/Debug/net5.0/SOLID.LSP.runtimeconfig.dev.json
+/Users/Eclipselunar/Desktop/Libro .Net/SOLID/Codigo/SOLID.LSP/bin/Debug/net5.0/SOLID.LSP.dll
+/Users/Eclipselunar/Desktop/Libro .Net/SOLID/Codigo/SOLID.LSP/bin/Debug/net5.0/ref/SOLID.LSP.dll
+/Users/Eclipselunar/Desktop/Libro .Net/SOLID/Codigo/SOLID.LSP/bin/Debug/net5.0/SOLID.LSP.pdb
+/Users/Eclipselunar/Desktop/Libro .Net/SOLID/Codigo/SOLID.LSP/obj/Debug/net5.0/SOLID.LSP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Eclipselunar/Desktop/Libro .Net/SOLID/Codigo/SOLID.LSP/obj/Debug/net5.0/SOLID.LSP.AssemblyInfoInputs.cache
+/Users/Eclipselunar/Desktop/Libro .Net/SOLID/Codigo/SOLID.LSP/obj/Debug/net5.0/SOLID.LSP.AssemblyInfo.cs
+/Users/Eclipselunar/Desktop/Libro .Net/SOLID/Codigo/SOLID.LSP/obj/Debug/net5.0/SOLID.LSP.csproj.CoreCompileInputs.cache
+/Users/Eclipselunar/Desktop/Libro .Net/SOLID/Codigo/SOLID.LSP/obj/Debug/net5.0/SOLID.LSP.dll
+/Users/Eclipselunar/Desktop/Libro .Net/SOLID/Codigo/SOLID.LSP/obj/Debug/net5.0/ref/SOLID.LSP.dll
+/Users/Eclipselunar/Desktop/Libro .Net/SOLID/Codigo/SOLID.LSP/obj/Debug/net5.0/SOLID.LSP.pdb
+/Users/Eclipselunar/Desktop/Libro .Net/SOLID/Codigo/SOLID.LSP/obj/Debug/net5.0/SOLID.LSP.genruntimeconfig.cache

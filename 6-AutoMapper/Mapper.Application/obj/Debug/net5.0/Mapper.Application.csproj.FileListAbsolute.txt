@@ -1,0 +1,15 @@
+/Users/Eclipselunar/Desktop/Libro .Net/AutoMapper/Mapper.Application/bin/Debug/net5.0/Mapper.Application.deps.json
+/Users/Eclipselunar/Desktop/Libro .Net/AutoMapper/Mapper.Application/bin/Debug/net5.0/Mapper.Application.dll
+/Users/Eclipselunar/Desktop/Libro .Net/AutoMapper/Mapper.Application/bin/Debug/net5.0/ref/Mapper.Application.dll
+/Users/Eclipselunar/Desktop/Libro .Net/AutoMapper/Mapper.Application/bin/Debug/net5.0/Mapper.Application.pdb
+/Users/Eclipselunar/Desktop/Libro .Net/AutoMapper/Mapper.Application/bin/Debug/net5.0/Mapper.Domain.dll
+/Users/Eclipselunar/Desktop/Libro .Net/AutoMapper/Mapper.Application/bin/Debug/net5.0/Mapper.Domain.pdb
+/Users/Eclipselunar/Desktop/Libro .Net/AutoMapper/Mapper.Application/obj/Debug/net5.0/Mapper.Application.csproj.AssemblyReference.cache
+/Users/Eclipselunar/Desktop/Libro .Net/AutoMapper/Mapper.Application/obj/Debug/net5.0/Mapper.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Eclipselunar/Desktop/Libro .Net/AutoMapper/Mapper.Application/obj/Debug/net5.0/Mapper.Application.AssemblyInfoInputs.cache
+/Users/Eclipselunar/Desktop/Libro .Net/AutoMapper/Mapper.Application/obj/Debug/net5.0/Mapper.Application.AssemblyInfo.cs
+/Users/Eclipselunar/Desktop/Libro .Net/AutoMapper/Mapper.Application/obj/Debug/net5.0/Mapper.Application.csproj.CoreCompileInputs.cache
+/Users/Eclipselunar/Desktop/Libro .Net/AutoMapper/Mapper.Application/obj/Debug/net5.0/Mapper.Application.csproj.CopyComplete
+/Users/Eclipselunar/Desktop/Libro .Net/AutoMapper/Mapper.Application/obj/Debug/net5.0/Mapper.Application.dll
+/Users/Eclipselunar/Desktop/Libro .Net/AutoMapper/Mapper.Application/obj/Debug/net5.0/ref/Mapper.Application.dll
+/Users/Eclipselunar/Desktop/Libro .Net/AutoMapper/Mapper.Application/obj/Debug/net5.0/Mapper.Application.pdb

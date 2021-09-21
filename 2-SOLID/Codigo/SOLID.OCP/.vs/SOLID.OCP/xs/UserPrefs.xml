@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{49BE06E4-99E4-495F-9581-04591E443642}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OkOCP2/IActionMessage.cs">
+    <Files>
+      <File FileName="OkOCP2/TraceApplicationOCP.cs" Line="16" Column="2" />
+      <File FileName="OkOCP2/ApplicationMessage.cs" />
+      <File FileName="OkOCP2/IActionMessage.cs" Line="9" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SOLID.OCP" expanded="True">
+            <Node name="SOLID.OCP" expanded="True">
+              <Node name="OkOCP1" expanded="True" />
+              <Node name="OkOCP2" expanded="True">
+                <Node name="IActionMessage.cs" selected="True" />
+              </Node>
+              <Node name="ViolationOCP" expanded="True" />
+              <Node name="ViolationOCP2" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SOLID.OCP PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

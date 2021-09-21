@@ -1,0 +1,16 @@
+2021-08-10 15:52:20.3558|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync| body: 
+2021-08-10 15:52:20.4315|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-08-10 15:52:20.4345|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-08-10 15:52:20.4345|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/Eclipselunar/Desktop/Libro .Net/Log/NLogAPI |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-08-10 15:52:41.2190|INFO|NLogAPI.Controllers.LogsController|Hola mundo |url: http://localhost/logs|action: Get|NLogAPI.Controllers.LogsController.Get| body: 
+2021-08-10 15:53:43.6907|INFO|NLogAPI.Controllers.LogsController|Hola mundo |url: http://localhost/logs|action: Get|NLogAPI.Controllers.LogsController.Get| body: 
+2021-08-10 15:55:49.0610|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync| body: 
+2021-08-10 15:55:49.1217|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-08-10 15:55:49.1229|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-08-10 15:55:49.1229|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/Eclipselunar/Desktop/Libro .Net/Log/NLogAPI |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-08-10 15:55:58.3011|INFO|NLogAPI.Controllers.LogsController|Hola mundo |url: http://localhost/logs|action: Get|NLogAPI.Controllers.LogsController.Get| body: 
+2021-08-10 15:57:06.6664|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync| body: 
+2021-08-10 15:57:06.7384|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-08-10 15:57:06.7400|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-08-10 15:57:06.7405|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/Eclipselunar/Desktop/Libro .Net/Log/NLogAPI |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-08-10 15:57:24.5394|ERROR|NLogAPI.Controllers.LogsController|Hola mundo |url: http://localhost/logs|action: Get|NLogAPI.Controllers.LogsController.Get| body: 

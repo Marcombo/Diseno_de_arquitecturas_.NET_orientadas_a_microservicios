@@ -1,0 +1,105 @@
+services:
+  ms.attendances.api:
+    build:
+      context: /Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl
+      dockerfile: ms.attendances/ms.attendances.api/Dockerfile
+    container_name: ms.attendances.api
+    depends_on:
+      ms.mongo.attendance.db:
+        condition: service_started
+      ms.rabbitmq.bus:
+        condition: service_started
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      Communication:EventBus:HostName: ms.rabbitmq.bus
+      ConnectionStrings:Attendance:Collection: Attendances
+      ConnectionStrings:Attendance:DataBase: DbHistoricalAttendance
+      ConnectionStrings:Attendance:HostName: ms.mongo.attendance.db
+      ConnectionStrings:Attendance:Port: '27017'
+    image: msattendances
+    ports:
+    - published: 9020
+      target: 80
+  ms.cassandra.db:
+    container_name: ms.cassandra.db
+    image: cassandra
+    ports:
+    - published: 9042
+      target: 9042
+    restart: always
+    volumes:
+    - /Users/Docker/MicroServices/Cassandra:/var/lib/cassandra:rw
+  ms.employees.api:
+    build:
+      context: /Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl
+      dockerfile: ms.employees/ms.employees.api/Dockerfile
+    container_name: ms.employees.api
+    depends_on:
+      ms.attendances.api:
+        condition: service_started
+      ms.rabbitmq.bus:
+        condition: service_started
+      ms.sql.employees.db:
+        condition: service_started
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      Communication:EventBus:HostName: ms.rabbitmq.bus
+      Communication:External:AttendanceApiUrl: http://ms.attendances.api:80
+      ConnectionStrings:EmployeeDB:Catalogue: EmployeesAttendance
+      ConnectionStrings:EmployeeDB:HostName: ms.sql.employees.db
+      ConnectionStrings:EmployeeDB:Password: .123Pass456.
+      ConnectionStrings:EmployeeDB:User: sa
+    image: msemployees
+    ports:
+    - published: 9010
+      target: 80
+  ms.mongo.attendance.db:
+    container_name: ms.mongo.attendance.db
+    image: mongo
+    ports:
+    - published: 27017
+      target: 27017
+    restart: always
+    volumes:
+    - /Users/Docker/MicroServices/Mongo:/data/db:rw
+  ms.rabbitmq.bus:
+    container_name: ms.rabbitmq.bus
+    image: rabbitmq:3-management
+    ports:
+    - published: 5672
+      target: 5672
+    - published: 15672
+      target: 15672
+    restart: always
+  ms.sql.employees.db:
+    container_name: ms.sql.employees.db
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: .123Pass456.
+    image: mcr.microsoft.com/mssql/server
+    ports:
+    - published: 1433
+      target: 1433
+    restart: always
+    volumes:
+    - /Users/Docker/MicroServices/SqlServer:/var/opt/mssql/data:rw
+  ms.users.api:
+    build:
+      context: /Users/Eclipselunar/Desktop/Libro .Net/MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl
+      dockerfile: ms.users/ms.users.api/Dockerfile
+    container_name: ms.users.api
+    depends_on:
+      ms.cassandra.db:
+        condition: service_started
+      ms.rabbitmq.bus:
+        condition: service_started
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      Communication:EventBus:HostName: ms.rabbitmq.bus
+      DatabaseSettings:Hostname: ms.cassandra.db
+    image: msusers
+    ports:
+    - published: 9000
+      target: 80
+    restart: always
+version: '3.4'

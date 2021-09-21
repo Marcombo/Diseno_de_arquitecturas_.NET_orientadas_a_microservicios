@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "/WBmkA4In9Qm+LEIeVHynSq63ISpIY/GbUYRML99xi/SRy2ZGxIQQMI+74YTnMPqLZ27zxmW19jF7RcA4y3G/w==",
+  "success": true,
+  "projectFilePath": "/Users/Eclipselunar/Desktop/Libro .Net/Log/NLogAPI/NLogAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/Eclipselunar/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/Eclipselunar/.nuget/packages/microsoft.extensions.configuration.abstractions/5.0.0/microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "/Users/Eclipselunar/.nuget/packages/microsoft.extensions.dependencyinjection/5.0.0/microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "/Users/Eclipselunar/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/5.0.0/microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "/Users/Eclipselunar/.nuget/packages/microsoft.extensions.logging/5.0.0/microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "/Users/Eclipselunar/.nuget/packages/microsoft.extensions.logging.abstractions/5.0.0/microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "/Users/Eclipselunar/.nuget/packages/microsoft.extensions.options/5.0.0/microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "/Users/Eclipselunar/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "/Users/Eclipselunar/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/Eclipselunar/.nuget/packages/nlog/4.7.10/nlog.4.7.10.nupkg.sha512",
+    "/Users/Eclipselunar/.nuget/packages/nlog.extensions.logging/1.7.3/nlog.extensions.logging.1.7.3.nupkg.sha512",
+    "/Users/Eclipselunar/.nuget/packages/nlog.web.aspnetcore/4.13.0/nlog.web.aspnetcore.4.13.0.nupkg.sha512",
+    "/Users/Eclipselunar/.nuget/packages/swashbuckle.aspnetcore/6.1.5/swashbuckle.aspnetcore.6.1.5.nupkg.sha512",
+    "/Users/Eclipselunar/.nuget/packages/swashbuckle.aspnetcore.swagger/6.1.5/swashbuckle.aspnetcore.swagger.6.1.5.nupkg.sha512",
+    "/Users/Eclipselunar/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.1.5/swashbuckle.aspnetcore.swaggergen.6.1.5.nupkg.sha512",
+    "/Users/Eclipselunar/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.1.5/swashbuckle.aspnetcore.swaggerui.6.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

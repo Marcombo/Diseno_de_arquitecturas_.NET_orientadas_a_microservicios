@@ -1,0 +1,38 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Requests\" />
+    <None Remove="Commands\" />
+    <None Remove="Queries\" />
+    <None Remove="Commands\Handlers\" />
+    <None Remove="Queries\Handlers\" />
+    <None Remove="Responses\" />
+    <None Remove="MediatR" />
+    <None Remove="AutoMapper" />
+    <None Remove="Mappers\" />
+    <None Remove="Microsoft.AspNetCore.Authentication.JwtBearer" />
+    <None Remove="Microsoft.Extensions.Configuration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Requests\" />
+    <Folder Include="Commands\" />
+    <Folder Include="Queries\" />
+    <Folder Include="Commands\Handlers\" />
+    <Folder Include="Queries\Handlers\" />
+    <Folder Include="Responses\" />
+    <Folder Include="Mappers\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="9.0.0" />
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="5.0.9" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="5.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ms.users.domain\ms.users.domain.csproj" />
+  </ItemGroup>
+</Project>

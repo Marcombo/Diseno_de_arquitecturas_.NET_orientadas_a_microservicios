@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{310954A8-5791-4B91-8C8C-723F2786C5B1}|Default">
+  <MonoDevelop.Ide.ItemProperties.SOLID.DIP PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OK.DIP/ProductRedisRepository.cs">
+    <Files>
+      <File FileName="Program.cs" Line="9" Column="1" />
+      <File FileName="Violacion.DIP/AddItemToShoppingCartUseCase.cs" Line="6" Column="46" />
+      <File FileName="Violacion.DIP/ProductSqlRepository.cs" Line="13" Column="1" />
+      <File FileName="Violacion.DIP/Product.cs" Line="12" Column="1" />
+      <File FileName="OK.DIP/AddItemToShoppingCartUseCase.cs" Line="19" Column="1" />
+      <File FileName="OK.DIP/ProductSqlRepository.cs" Line="13" Column="1" />
+      <File FileName="OK.DIP/Product.cs" Line="6" Column="29" />
+      <File FileName="OK.DIP/IProductRepository.cs" Line="9" Column="1" />
+      <File FileName="OK.DIP/ProductRedisRepository.cs" Line="12" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SOLID.DIP" expanded="True">
+            <Node name="SOLID.DIP" expanded="True">
+              <Node name="OK.DIP" expanded="True">
+                <Node name="ProductRedisRepository.cs" selected="True" />
+              </Node>
+              <Node name="Violacion.DIP" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

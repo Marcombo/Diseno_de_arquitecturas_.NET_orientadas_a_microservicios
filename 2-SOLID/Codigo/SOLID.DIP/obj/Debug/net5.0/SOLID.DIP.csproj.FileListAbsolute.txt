@@ -1,0 +1,15 @@
+/Users/Eclipselunar/Desktop/Libro .Net/SOLID/Codigo/SOLID.DIP/bin/Debug/net5.0/SOLID.DIP.deps.json
+/Users/Eclipselunar/Desktop/Libro .Net/SOLID/Codigo/SOLID.DIP/bin/Debug/net5.0/SOLID.DIP.runtimeconfig.json
+/Users/Eclipselunar/Desktop/Libro .Net/SOLID/Codigo/SOLID.DIP/bin/Debug/net5.0/SOLID.DIP.runtimeconfig.dev.json
+/Users/Eclipselunar/Desktop/Libro .Net/SOLID/Codigo/SOLID.DIP/bin/Debug/net5.0/SOLID.DIP.dll
+/Users/Eclipselunar/Desktop/Libro .Net/SOLID/Codigo/SOLID.DIP/bin/Debug/net5.0/ref/SOLID.DIP.dll
+/Users/Eclipselunar/Desktop/Libro .Net/SOLID/Codigo/SOLID.DIP/bin/Debug/net5.0/SOLID.DIP.pdb
+/Users/Eclipselunar/Desktop/Libro .Net/SOLID/Codigo/SOLID.DIP/obj/Debug/net5.0/SOLID.DIP.csprojAssemblyReference.cache
+/Users/Eclipselunar/Desktop/Libro .Net/SOLID/Codigo/SOLID.DIP/obj/Debug/net5.0/SOLID.DIP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Eclipselunar/Desktop/Libro .Net/SOLID/Codigo/SOLID.DIP/obj/Debug/net5.0/SOLID.DIP.AssemblyInfoInputs.cache
+/Users/Eclipselunar/Desktop/Libro .Net/SOLID/Codigo/SOLID.DIP/obj/Debug/net5.0/SOLID.DIP.AssemblyInfo.cs
+/Users/Eclipselunar/Desktop/Libro .Net/SOLID/Codigo/SOLID.DIP/obj/Debug/net5.0/SOLID.DIP.csproj.CoreCompileInputs.cache
+/Users/Eclipselunar/Desktop/Libro .Net/SOLID/Codigo/SOLID.DIP/obj/Debug/net5.0/SOLID.DIP.dll
+/Users/Eclipselunar/Desktop/Libro .Net/SOLID/Codigo/SOLID.DIP/obj/Debug/net5.0/ref/SOLID.DIP.dll
+/Users/Eclipselunar/Desktop/Libro .Net/SOLID/Codigo/SOLID.DIP/obj/Debug/net5.0/SOLID.DIP.pdb
+/Users/Eclipselunar/Desktop/Libro .Net/SOLID/Codigo/SOLID.DIP/obj/Debug/net5.0/SOLID.DIP.genruntimeconfig.cache

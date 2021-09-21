@@ -1,0 +1,41 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="MediatR" />
+    <None Remove="Queries\" />
+    <None Remove="Commands\" />
+    <None Remove="Commands\Handlers\" />
+    <None Remove="Queries\Handlers\" />
+    <None Remove="Requests\" />
+    <None Remove="Responses\" />
+    <None Remove="AutoMapper" />
+    <None Remove="Mappers\" />
+    <None Remove="HttpCommunications\" />
+    <None Remove="HttpCommunications\Responses\" />
+    <None Remove="Refit" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="9.0.0" />
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="Refit" Version="6.0.94" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Queries\" />
+    <Folder Include="Commands\" />
+    <Folder Include="Commands\Handlers\" />
+    <Folder Include="Queries\Handlers\" />
+    <Folder Include="Requests\" />
+    <Folder Include="Responses\" />
+    <Folder Include="Mappers\" />
+    <Folder Include="HttpCommunications\" />
+    <Folder Include="HttpCommunications\Responses\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ms.employees.domain\ms.employees.domain.csproj" />
+    <ProjectReference Include="..\..\ms.communications\ms.rabbitmq\ms.rabbitmq.csproj" />
+  </ItemGroup>
+</Project>

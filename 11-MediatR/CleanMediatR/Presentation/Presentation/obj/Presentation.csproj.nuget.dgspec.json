@@ -1,0 +1,269 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Presentation/Presentation/Presentation.csproj": {}
+  },
+  "projects": {
+    "/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Application/Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Application/Application.csproj",
+        "projectName": "Application",
+        "projectPath": "/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Application/Application.csproj",
+        "packagesPath": "/Users/Eclipselunar/.nuget/packages/",
+        "outputPath": "/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Application/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/Eclipselunar/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Domain/Domain.csproj": {
+                "projectPath": "/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Domain/Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Domain/Domain.csproj",
+        "packagesPath": "/Users/Eclipselunar/.nuget/packages/",
+        "outputPath": "/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Domain/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/Eclipselunar/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Infrastructure/Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Infrastructure/Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Infrastructure/Infrastructure.csproj",
+        "packagesPath": "/Users/Eclipselunar/.nuget/packages/",
+        "outputPath": "/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/Eclipselunar/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Domain/Domain.csproj": {
+                "projectPath": "/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Presentation/Presentation/Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Presentation/Presentation/Presentation.csproj",
+        "projectName": "Presentation",
+        "projectPath": "/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Presentation/Presentation/Presentation.csproj",
+        "packagesPath": "/Users/Eclipselunar/.nuget/packages/",
+        "outputPath": "/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Presentation/Presentation/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/Eclipselunar/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Application/Application.csproj": {
+                "projectPath": "/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Application/Application.csproj"
+              },
+              "/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Domain/Domain.csproj": {
+                "projectPath": "/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Domain/Domain.csproj"
+              },
+              "/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Infrastructure/Infrastructure.csproj": {
+                "projectPath": "/Users/Eclipselunar/Desktop/Libro .Net/MediatR/CleanMediatR/Infrastructure/Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
