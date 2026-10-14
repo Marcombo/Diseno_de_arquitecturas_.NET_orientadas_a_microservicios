@@ -2,4 +2,46 @@
 # Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
 ################################################################################
 
-/13-MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/bin/Debug/DnsClient.dll
+# Carpetas de salida de compilación (recursivo)
+**/bin/
+**/obj/
+bin/
+obj/
+
+# Visual Studio / Rider / VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.userprefs
+
+# Paquetes y artefactos
+packages/
+artifacts/
+*.nupkg
+project.lock.json
+
+# Binaries y ficheros de debug/compilación
+*.dll
+*.exe
+*.pdb
+*.lib
+*.ilk
+*.so
+*.dylib
+*.a
+*.o
+*.class
+*.jar
+*.wasm
+
+# Resultados de tests y logs temporales
+TestResults/
+*.log
+*.cache
+*.tmp
+
+# Otros
+_ReSharper*/
+*.DotSettings.user
