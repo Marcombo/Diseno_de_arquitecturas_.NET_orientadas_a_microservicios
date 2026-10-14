@@ -1,0 +1,5 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/13-MicroServices/EmployeeAttendanceControl/EmployeeAttendanceControl/bin/Debug/DnsClient.dll
